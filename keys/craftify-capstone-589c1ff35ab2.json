@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "craftify-capstone",
+  "private_key_id": "589c1ff35ab235f165d5d2581000131e3b751b18",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDPZEr260uyIWHY\nQ8XxcuMyPpZUEgq/4TE16EVbMfn9lyR/0ErVe78bGnNBpZwp5blc3NbU9RNX3MB0\nxXX9E4FzTuA40ytBP7HvsQhT3oI90DS+yQYH94+EEB36WCSSq0+2cxZbd/aklkfl\nab8mcK364BjxN/atC6k60a2/IcVdaEpCaEWjNLThamVf9rvc7HqLJ5FWAx4fL5Dd\nATyBSSzY+Cxq4ZLIzGWuYSnbE5dMcbt/9Jq8v7kkQ3t96yyymrAEpv761rUpZZbH\nrh4+O5ULPUMvT3XTR+DG8Pua98hiPVXjoIgh8QoUl0naeuf2rhorg6DOsqMhrFd2\nvCugvLVhAgMBAAECggEAPog2hEIJFmIzXuJ8fiNOdtlhOWMhQ57SWDc7Jlao0nou\noq06yyjfQ/xTMUGOlyFxpRrfWeG1XeItU2gwfcjSWOK4/9lIKwnaDHQcFzG5ooqz\nRK1XOLK/3ql/aHsIOAMYa2JDJPxEbXb0oasjXCNQihrk2mKt6ZphAd+0HDPCDzn2\nSb4ID6lwM0hFfkpKMEQ8GlrS1x6Pui989DMR7trZ09sPpvocCEC5pyYwbG6GqUkG\nYSjN6JzWZB5tu9J5uAtK6/lyqKKycWchsaiCJYM/WEFsSGVhXRqfX3qw3HHkZSKF\n7xVmoKvObm4cRD4uOYJ6EVdvbdegt3fQ/cXJLiG6wwKBgQDwg4lWyc4XoFjn/CIL\nd8lpWYGE12TcJ3/04gJy/TQ6yzoe8Ed0IhtNunRdt30arGRCJQItZc11AJjz/m0U\ntGJnOxRavSXjxN+HI2RGnWfMht3l0af6t9jkqLCMZ8k+Hk95H4ErxjAEdQbt0Qig\n8DobHaZ4XAnNWy/9enwPONiQFwKBgQDcvsuh5Kiq9t49/+rIyEpFZuh8mJ0r44Zl\nrtuMJ6f75Zvbgq0ZUL56OcSnrNrKpLvG3QvsBBumvCaDCceK1xAUGGtiwhZsj8EG\ncJnu+R4vvLKvaBZkl2HKUuM5ZubjJnNnLWri8SJR+KmOAbt3yS+HA6LCW5k/z9hs\nmCEpaEmZRwKBgQDsTA8u2W5GAB/ZK/o20iVr/6gkX4qUUaqBaVuGpgYejXQ42VEa\nZDf3Ee0p9hBPmHeYFMwi1hYZkdC0R4/b+62CRqUk0RjcwpvqJXdreVJ1uztfg7BJ\nvz60yJdMGtu40Aa8tZsu6rRabK+2Dt0vYVV1NphLQAHRZHmtzBz+x5bdWQKBgHT2\nb2UviCNWPPmy8Q9D+P5/AW6LWrQXkW2tUc0YcgypY4TS368LNnICy+1gTGmVEZ3U\nH+4FWzVkei9ybhVl0LIlIjkox8LsBIXKAfY6b0EyBaelSkAwafNPKfCPUoVHKVyh\nFwJ6bAns7MI+rrtQkWtDhOjgqfnCwlT/4opTJLQfAoGAQNzyWPnbUDLVOqpb7pN+\nOwB4KX9NKAW84KhodWBbyueFKsQSfcQMrqED/JmWvBtNzJuk/x2oO/d0ncGGgDsc\nDQbyAB+3JOxs2+NTNNO2O8m+0cSBVV+orhTTRU3NUAiz4h/p3/CNPke90rfeIKfM\nn/TyzKxfxoajh22+SVey4dg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-run-service-account@craftify-capstone.iam.gserviceaccount.com",
+  "client_id": "109143967222058116008",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-run-service-account%40craftify-capstone.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
